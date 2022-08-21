@@ -1,0 +1,14 @@
+# Build
+dist
+
+# Coverage
+coverage
+
+# Dependencies
+node_modules
+
+# MacOS Stuff
+.DS_Store
+
+# Packed Node Modules
+*.tgz

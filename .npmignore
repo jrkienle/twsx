@@ -1,0 +1,10 @@
+coverage
+node_modules
+src
+.eslintignore
+.eslintrc
+.gitignore
+pnpm-lock.yaml
+tsconfig.json
+tsup.config.ts
+*.tgz
